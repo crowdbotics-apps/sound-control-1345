@@ -1,0 +1,3 @@
+rootProject.name = 'sound_control_1345'
+
+include ':app'
